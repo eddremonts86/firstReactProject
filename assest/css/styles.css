@@ -1,0 +1,36 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.app {
+  padding: 0;
+  margin: 0;
+}
+
+.navBar {
+  height: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background: #ccc;
+  padding: 15px;
+}
+
+.navBar ul {
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.navBar ul li {
+  margin: 15px 5px;
+}
+/*# sourceMappingURL=styles.css.map */
